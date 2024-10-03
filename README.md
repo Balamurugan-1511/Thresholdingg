@@ -27,6 +27,7 @@ NAME:BALA MURUGAN P
 REG NO:212222230017
 
 ```
+```
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
